@@ -23,8 +23,9 @@ import threejs from "./tech/threejs.svg";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
+import iconv from "./company/iconv.jpg";
 import tesla from "./company/tesla.png";
+import wordpress from "./company/wordpress.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -54,9 +55,10 @@ export {
   threejs,
   meta,
   shopify,
-  starbucks,
+  iconv,
   tesla,
   carrent,
   jobit,
   tripguide,
+  wordpress,
 };
